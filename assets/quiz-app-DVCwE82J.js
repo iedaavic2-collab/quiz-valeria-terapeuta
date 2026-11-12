@@ -9,7 +9,7 @@ import{a as e,n as t,t as n}from"./jsx-runtime-C27Mmbu5.js";import{a as r,c as i
      com o HTML e a tela nao pula quando a fonte troca. Ficam fora do
      JavaScript de proposito: sao 50 KB que o celular nao precisa ler duas
      vezes. Ver scripts/fontes-abertura.mjs. */
-  --serif:"Cormorant Abertura","Cormorant Garamond",Georgia,"Times New Roman",serif;
+  --serif:"Cormorant Garamond","Cormorant Abertura",Georgia,"Times New Roman",serif;
   position:fixed;inset:0;z-index:50;overflow-y:auto;-webkit-overflow-scrolling:touch;
   background:
     radial-gradient(120% 62% at 50% -6%, #5a1230 0%, rgba(90,18,48,0) 60%),
