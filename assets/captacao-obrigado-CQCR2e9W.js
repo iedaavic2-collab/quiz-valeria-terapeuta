@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-C27Mmbu5.js";import{t}from"./captacao-obrigado-CrufJ8ab.js";var n=e(),r=()=>(0,n.jsx)(t,{qualified:!1});export{r as component};

@@ -1,0 +1,1 @@
+function e(e){if(typeof document>`u`)return()=>{};let t=document.documentElement,n=t.getAttribute(`data-paleta`);return t.setAttribute(`data-paleta`,e),()=>{n===null?t.removeAttribute(`data-paleta`):t.setAttribute(`data-paleta`,n)}}export{e as t};

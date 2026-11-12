@@ -1,0 +1,1 @@
+import{a as e,n as t,t as n}from"./jsx-runtime-C27Mmbu5.js";import{t as r}from"./quiz-app-DVCwE82J.js";import{t as i}from"./paleta-CPF-H_Tq.js";var a=e(t()),o=n();function s(){return(0,a.useEffect)(()=>i(`vinho`),[]),(0,o.jsx)(r,{variant:`direto-19`})}export{s as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-C27Mmbu5.js";import{t}from"./quiz-app-DVCwE82J.js";var n=e();function r(){return(0,n.jsx)(t,{variant:`27`})}export{r as component};
